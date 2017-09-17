@@ -28,7 +28,7 @@ class TowerOfHanoi
   end
 
   def update_current_board(input)
-    # new_input << input
+    input[0u]
     print input.class
   end
 
